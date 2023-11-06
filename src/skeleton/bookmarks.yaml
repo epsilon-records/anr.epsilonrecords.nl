@@ -5,7 +5,7 @@
 
 - Entertainment:
     - MANA TV (the new MTV):
-        - abbr: MT
+        - abbr: MTV
           href: https://manatv.app
     - YouTube:
         - abbr: YT
@@ -16,6 +16,9 @@
     - Mixcloud:
         - abbr: MC
           href: https://mixcloud.com/epsilonrecords
+    - Bandcamp:
+        - abbr: BC
+          href: https://epsilonrecords.bandcamp.com
 
 - Social:
     - Instagram:
@@ -36,6 +39,12 @@
     - Facebook:
         - abbr: FB
           href: https://facebook.com/epsilonrecords.nl
+    - X:
+        - abbr: X
+          href: https://x.com/_epsilonrecords
+    - Mastodon:
+        - abbr: MA
+          href: https://epsilon.social/@e
 
 - Developer:
     - Github:
