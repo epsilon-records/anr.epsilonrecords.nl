@@ -13,6 +13,9 @@
     - SoundCloud:
         - abbr: SC
           href: https://soundcloud.com/epsilonrecords
+    - Mixcloud:
+        - abbr: MC
+          href: https://mixcloud.com/epsilonrecords
 
 - Social:
     - Instagram:
