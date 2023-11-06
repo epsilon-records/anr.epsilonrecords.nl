@@ -10,6 +10,9 @@
     - YouTube:
         - abbr: YT
           href: https://youtube.com/epsilonrecords
+    - SoundCloud:
+        - abbr: SC
+          href: https://soundcloud.com/epsilonrecords
 
 - Social:
     - Instagram:
@@ -27,6 +30,9 @@
     - Reddit:
         - abbr: RE
           href: https://reddit.com/r/EpsilonRecords/
+    - Facebook:
+        - abbr: FB
+          href: https://facebook.com/epsilonrecords.nl
 
 - Developer:
     - Github:
