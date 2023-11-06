@@ -1,31 +1,31 @@
----
-# For configuration options and examples, please see:
-# https://gethomepage.dev/latest/configs/bookmarks
+# ---
+# # For configuration options and examples, please see:
+# # https://gethomepage.dev/latest/configs/bookmarks
 
 
-- Entertainment:
-    # - MANA TV (the new MTV):
-    #     - abbr: MT
-    #       href: https://manatv.app
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/epsilonrecords
+# - Entertainment:
+#     # - MANA TV (the new MTV):
+#     #     - abbr: MT
+#     #       href: https://manatv.app
+#     - YouTube:
+#         - abbr: YT
+#           href: https://youtube.com/epsilonrecords
 
-- Social:
-    - Instagram:
-        - abbr: IG
-        - href: https://instagram.com/epsilonrecords
-    - TikTok:
-        - abbr: TK
-        - href: https://www.tiktok.com/@epsilonrecords
-    # - Twitch:
-    #     - abbr: TW
-    #     - href: https://twitch.tv/epsilonrecords
-    - Reddit:
-        - abbr: RE
-          href: https://www.reddit.com/r/EpsilonRecords/
+# - Social:
+#     - Instagram:
+#         - abbr: IG
+#         - href: https://instagram.com/epsilonrecords
+#     - TikTok:
+#         - abbr: TK
+#         - href: https://www.tiktok.com/@epsilonrecords
+#     # - Twitch:
+#     #     - abbr: TW
+#     #     - href: https://twitch.tv/epsilonrecords
+#     - Reddit:
+#         - abbr: RE
+#           href: https://www.reddit.com/r/EpsilonRecords/
 
-- Developer:
-    - Github:
-        - abbr: GH
-          href: https://github.com/epsilon-records
+# - Developer:
+#     - Github:
+#         - abbr: GH
+#           href: https://github.com/epsilon-records
