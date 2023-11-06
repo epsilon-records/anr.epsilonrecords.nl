@@ -4,9 +4,9 @@
 
 
 - Entertainment:
-    # - MANA TV (the new MTV):
-    #     - abbr: MT
-    #       href: https://manatv.app
+    - MANA TV (the new MTV):
+        - abbr: MT
+          href: https://manatv.app
     - YouTube:
         - abbr: YT
           href: https://youtube.com/epsilonrecords
@@ -14,13 +14,13 @@
 - Social:
     - Instagram:
         - abbr: IG
-        - href: https://instagram.com/epsilonrecords
+          href: https://instagram.com/epsilonrecords
     - TikTok:
         - abbr: TK
-        - href: https://www.tiktok.com/@epsilonrecords
-    # - Twitch:
-    #     - abbr: TW
-    #     - href: https://twitch.tv/epsilonrecords
+          href: https://www.tiktok.com/@epsilonrecords
+    - Twitch:
+        - abbr: TW
+          href: https://twitch.tv/epsilonrecords
     - Reddit:
         - abbr: RE
           href: https://www.reddit.com/r/EpsilonRecords/

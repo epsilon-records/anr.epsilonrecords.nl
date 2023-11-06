@@ -3,11 +3,11 @@
 # https://gethomepage.dev/latest/configs/services
 
 
-# - Want to join the Epsilon A&R team?:
-#     - Submit New A&R Profile:
-#         href: https://epsilonrecords.nl/anr
-#         description: Submit your professional details and set up your profile as a new A&R representative in the company's online portal.
-#         ping: https://epsilonrecords.nl/anr
+- Want to join the Epsilon A&R team?:
+    - Submit New A&R Profile:
+        href: https://epsilonrecords.nl/anr
+        description: Submit your professional details and set up your profile as a new A&R representative in the company's online portal.
+        ping: https://epsilonrecords.nl/anr
 - Artist Management:
     - Submit New Artist Profile:
         href: https://epsilonrecords.nl/profile
