@@ -2,28 +2,19 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/widgets
 
+- logo:
+    icon: https://natehouk.com/files/Orange-Record-200x200.png
+
 - greeting:
     text_size: 4xl
     text: EPSILON RECORDS™ A&R Portal
 
-- logo:
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/I_Love_New_York.svg/1101px-I_Love_New_York.svg.png
-    
 - datetime:
     text_size: xl
     format:
-      timeStyle: short
-
-- resources:
-    cpu: true
-    memory: true
-    disk: /
+      dateStyle: long
+      timeStyle: long
 
 - search:
     provider: duckduckgo
     target: _blank
-
-- widget:
-    type: uptimerobot
-    url: https://api.uptimerobot.com
-    key: ur175015-bbe1008ab50dfe148df06594
