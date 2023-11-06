@@ -2,6 +2,7 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/settings
 
+title: Epsilon Records A&R Portal
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
