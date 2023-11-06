@@ -4,11 +4,11 @@
 
 
 - Want to join the Epsilon A&R team?:
-    - Submit New A&R Profile:
+    - Submit a New A&R Profile:
         href: https://epsilonrecords.nl/anr
         description: Submit your professional details and set up your profile as a new A&R representative in the company's online portal.
 - Artist Management:
-    - Submit New Artist Profile:
+    - Submit a New Artist Profile:
         href: https://epsilonrecords.nl/profile
         description: Use this portal to submit and update new artist profiles within the company's system.
     - Submit Audio Files & Media Assets:
@@ -25,3 +25,7 @@
     - Artist Onboarding Guide:
         href: https://epsilonrecords.nl/onboarding
         description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
+- Support:
+    - Open a Support Ticket:
+        href: https://support.epsilonrecords.nl
+        description: For assistance, Epsilon Support offers a helpdesk where you can open a ticket for any issues or inquiries, ensuring you receive the necessary support in a timely manner.
