@@ -11,6 +11,9 @@
     - Submit New Artist Profile:
         href: https://epsilonrecords.nl/profile
         description: Use this portal to submit and update new artist profiles within the company's system.
+    - Submit Audio Files & Media Assets:
+        href: https://epsilonrecords.nl/submit
+        description: The A&R Mastered Audio Files and Media Assets Submission Portal is a secure online platform where A&R reps can upload high-quality tracks and related media content for their artists' upcoming releases. Maximum transfer size is 200GB.
 - Team Calendar:
     - A&R Team Meeting & Events Calendar:
         href: https://epsilonrecords.nl/calendar
