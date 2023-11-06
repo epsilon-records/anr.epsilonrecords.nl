@@ -7,6 +7,9 @@
     - Submit a New A&R Profile:
         href: https://epsilonrecords.nl/anr
         description: Submit your professional details and set up your profile as a new A&R representative in the company's online portal.
+    - A&R Onboarding Guide:
+        href: https://epsilonrecords.nl/anr-guide
+        description: The A&R Onboarding Guide is a detailed resource designed to orient and educate new A&R representatives on the policies, procedures, and expectations of their role within the music industry organization.
 - Artist Management:
     - Submit a New Artist Profile:
         href: https://epsilonrecords.nl/profile
@@ -14,6 +17,9 @@
     - Submit Audio Files & Media Assets:
         href: https://epsilonrecords.nl/submit
         description: The A&R Mastered Audio Files and Media Assets Submission Portal is a secure online platform where A&R reps can upload high-quality tracks and related media content for their artists' upcoming releases. Maximum transfer size is 200GB.
+    - Artist Onboarding Guide:
+        href: https://epsilonrecords.nl/onboarding
+        description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
 - Team Calendar:
     - A&R Team Meeting & Events Calendar:
         href: https://epsilonrecords.nl/calendar
@@ -21,13 +27,6 @@
     - Book a Label Meeting:
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
-- Guides:
-    - A&R Onboarding Guide:
-        href: https://epsilonrecords.nl/anr-guide
-        description: The A&R Onboarding Guide is a detailed resource designed to orient and educate new A&R representatives on the policies, procedures, and expectations of their role within the music industry organization.
-    - Artist Onboarding Guide:
-        href: https://epsilonrecords.nl/onboarding
-        description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
 - Support:
     - Open a Support Ticket:
         href: https://support.epsilonrecords.nl
