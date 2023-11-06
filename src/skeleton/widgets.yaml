@@ -2,6 +2,10 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/widgets
 
+- greeting:
+    text_size: 4xl
+    text: EPSILON RECORDS™ A&R Portal
+    
 - datetime:
     text_size: xl
     format:
