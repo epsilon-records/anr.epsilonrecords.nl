@@ -8,22 +8,22 @@
         href: https://epsilonrecords.nl/anr
         description: Submit your professional details and set up your profile as a new A&R representative in the company's online portal.
         ping: https://epsilonrecords.nl/anr
-- Artist Management:
-    - Submit New Artist Profile:
-        href: https://epsilonrecords.nl/profile
-        description: Use this portal to submit and update new artist profiles within the company's system.
-        ping: https://epsilonrecords.nl/profile
-- Team Calendar:
-    - A&R Team Meeting & Events Calendar:
-        href: https://epsilonrecords.nl/calendar
-        description: The A&R Company Calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
-        ping: https://epsilonrecords.nl/calendar
-- Guides:
-    - A&R Onboarding Guide:
-        href: https://epsilonrecords.nl/anr-guide
-        description: The A&R Onboarding Guide is a detailed resource designed to orient and educate new A&R representatives on the policies, procedures, and expectations of their role within the music industry organization.
-        ping: https://epsilonrecords.nl/anr-guide
-    - Artist Onboarding Guide:
-        href: https://epsilonrecords.nl/onboarding
-        description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
-        ping: https://epsilonrecords.nl/onboarding
+# - Artist Management:
+#     - Submit New Artist Profile:
+#         href: https://epsilonrecords.nl/profile
+#         description: Use this portal to submit and update new artist profiles within the company's system.
+#         ping: https://epsilonrecords.nl/profile
+# - Team Calendar:
+#     - A&R Team Meeting & Events Calendar:
+#         href: https://epsilonrecords.nl/calendar
+#         description: The A&R Company Calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
+#         ping: https://epsilonrecords.nl/calendar
+# - Guides:
+#     - A&R Onboarding Guide:
+#         href: https://epsilonrecords.nl/anr-guide
+#         description: The A&R Onboarding Guide is a detailed resource designed to orient and educate new A&R representatives on the policies, procedures, and expectations of their role within the music industry organization.
+#         ping: https://epsilonrecords.nl/anr-guide
+#     - Artist Onboarding Guide:
+#         href: https://epsilonrecords.nl/onboarding
+#         description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
+#         ping: https://epsilonrecords.nl/onboarding
