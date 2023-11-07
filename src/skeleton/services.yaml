@@ -39,7 +39,7 @@
           description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
     - Send & Manage Contracts:
           href: https://app.docusign.com/auth
-          description: We utilize DocuSign to effortlessly send and manage your contacts, ensuring secure and efficient digital signatures for seamless communication and record-keeping.
+          description: We leverage DocuSign to effortlessly send and manage artist contacts, ensuring secure and efficient digital signatures for seamless communication and record-keeping.
     - Manage Artist Relations (CRM):
           href: https://epsilonrecords.pipedrive.com
           description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, contact information, and project pipelines.
@@ -75,10 +75,10 @@
         description: Take advantage of your 25% staff discount at the Epsilon Gift Shop with code 'ANR2024', a benefit to appreciate our A&R team's dedication and hard work.
     - TravelPerk.com Booking Deals:
         href: https://travelperk.com
-        description: TravelPerk.com offers our A&R representatives a streamlined and flexible platform for booking and managing artist travel, ensuring they can focus on discovering talent without the hassle of travel logistics.
+        description: TravelPerk offers our A&R representatives a streamlined and flexible platform for booking and managing artist travel, ensuring they can focus on discovering talent without the hassle of travel logistics.
     - Outsite.co Accomodation Deals:
         href: https://outsite.co
-        description: Enjoy special discounted accommodations through our partnership with Outside.co, ideal for remote work getaways that combine the tranquility of nature with the comforts of a well-appointed workspace.
+        description: Enjoy special discounted accommodations through our partnership with Outside, ideal for remote work getaways that combine the tranquility of nature with the comforts of a well-appointed workspace.
 - Support & Resources:
     - Open a Support Ticket:
         href: https://support.epsilonrecords.nl
