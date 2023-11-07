@@ -5,8 +5,8 @@ export default function Document() {
     <Html>
       <Head>
         <meta
-          name="description"
-          content="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations."
+          name="Epsilon Records A&R Portal"
+          content="The Epsilon Records A&R Portal serves as a centralized online platform where our A&R team can manage artist profiles, review submissions, and coordinate projects efficiently."
         />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <link rel="manifest" href="/site.webmanifest?v=4" crossOrigin="use-credentials" />
