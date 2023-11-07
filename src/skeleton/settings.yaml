@@ -3,6 +3,5 @@
 # https://gethomepage.dev/latest/configs/settings
 
 title: Epsilon Records A&R Portal
-providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+favicon: https://natehouk.com/files/favicon.ico
+color: lime
