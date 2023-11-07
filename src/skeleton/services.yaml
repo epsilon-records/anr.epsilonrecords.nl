@@ -30,16 +30,13 @@
     - Book a New A&R Meeting:
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
-    - Industry Contact List:
-        href: https://epsilonrecords.nl/contacts
-        description: Our A&R industry contact list is a curated directory offering A&R professionals access to a network of valuable music industry connections, including publishers, producers, and other key stakeholders.
-    - Epsilon Spotify Playlist:
-          href: https://open.spotify.com/playlist/3V3NcVTRCHomITtmWLb86I?si=bce0b3a658e547bc&pt=a1f62f35e8ac8c516062f53507381745
-          description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
 - Internal Tools:
     - A&R Production Review Board:
         href: https://epsilonrecords.nl/review
         description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
+    - Epsilon Spotify Playlist:
+          href: https://open.spotify.com/playlist/3V3NcVTRCHomITtmWLb86I?si=bce0b3a658e547bc&pt=a1f62f35e8ac8c516062f53507381745
+          description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
     - Company Email Login:
         href: https://mail.epsilonrecords.com
         description: Access your official company email account to stay updated on communications and A&R activities.
@@ -83,4 +80,7 @@
     - Browse the FAQ:
         href: https://epsilonrecords.nl/faq
         description: Explore our comprehensive FAQ section to find quick answers to common questions and gain clearer insights into the A&R processes and best practices.
+    - Industry Contact List:
+        href: https://epsilonrecords.nl/contacts
+        description: Our A&R industry contact list is a curated directory offering A&R professionals access to a network of valuable music industry connections, including publishers, producers, and other key stakeholders.
 
