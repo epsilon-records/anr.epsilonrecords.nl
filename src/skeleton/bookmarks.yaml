@@ -45,6 +45,9 @@
     - Mastodon:
         - abbr: MA
           href: https://epsilon.social/@e
+    - Pinterest:
+        - abbr: PI
+          href: https://pinterest.com/epsilonrecords/
 
 - Developer:
     - Github:
