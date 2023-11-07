@@ -31,7 +31,7 @@
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
 - Internal Tools:
-    - Manage Artist Relations (CRM):
+    - Artist Relationship Management (CRM):
           href: https://epsilonrecords.pipedrive.com
           description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, contact info, and project pipelines.
     - A&R Production Review Board:
@@ -45,7 +45,7 @@
           description: We leverage DocuSign to effortlessly send and manage artist contacts, ensuring secure and efficient digital signatures for seamless communication and record-keeping.
     - Company Email Login:
         href: https://mail.epsilonrecords.com
-        description: Access your official company email account to stay updated on communications and A&R activities.
+        description: Access your official @epsilonrecords.nl company email account to stay updated on communications and A&R activities.
     - Company Slack Login:
         href: https://epsilon-records.slack.com
         description: Utilize the company Slack channel for real-time messaging, collaboration, and updates within our A&R team.
