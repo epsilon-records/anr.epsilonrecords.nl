@@ -5,3 +5,6 @@
 title: Epsilon Records A&R Portal
 favicon: https://natehouk.com/files/favicon.ico
 color: lime
+disableCollapse: true
+target: _blank
+hideVersion: true
