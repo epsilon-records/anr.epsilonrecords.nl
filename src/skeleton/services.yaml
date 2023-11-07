@@ -27,7 +27,7 @@
     - Book a New A&R Meeting:
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
-- Software & Tooling:
+- Internal Tools:
     - Production Review Board:
         href: https://epsilonrecords.nl/review
         description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
@@ -37,6 +37,7 @@
     - Company Slack:
         href: https://epsilon-records.slack.com
         description: Utilize the company Slack channel for real-time messaging, collaboration, and updates within our A&R team.
+- Label Community:
     - Company Discord:
         href: https://discord.gg/ek55B8wGqE
         description: Connect with the team and our label fans by joining our Company Discord server for daily discussions and community engagement
