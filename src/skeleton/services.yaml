@@ -10,7 +10,7 @@
     - A&R Onboarding Guide:
         href: https://epsilonrecords.nl/anr-guide
         description: The A&R Onboarding Guide is a detailed resource designed to orient and educate new A&R representatives on the policies, procedures, and expectations of their role within the music industry organization.
-- Artist Management:
+- Artist Onboarding:
     - Submit a New Artist Profile:
         href: https://epsilonrecords.nl/profile
         description: Use this portal to submit and update new artist profiles within the company's system.
@@ -34,9 +34,11 @@
     - A&R Production Review Board:
         href: https://epsilonrecords.nl/review
         description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
-    - Spotify Playlist Collaboration:
+    - Curate our Spotify Playlist:
           href: https://open.spotify.com/playlist/3V3NcVTRCHomITtmWLb86I?si=bce0b3a658e547bc&pt=a1f62f35e8ac8c516062f53507381745
           description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
+    - Company Pipedrive Login:
+         Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations and project pipelines.
     - Company Email Login:
         href: https://mail.epsilonrecords.com
         description: Access your official company email account to stay updated on communications and A&R activities.
