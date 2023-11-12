@@ -9,6 +9,7 @@ disableCollapse: true
 target: _blank
 hideVersion: true
 theme: dark
+base: https://epsilon.careers
 layout:
   Want to join the Epsilon A&R team?:
     style: row
