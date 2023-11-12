@@ -9,3 +9,7 @@ disableCollapse: true
 target: _blank
 hideVersion: true
 theme: dark
+layout:
+  Want to join the Epsilon A&R team?:
+    style: row
+    columns: 4
