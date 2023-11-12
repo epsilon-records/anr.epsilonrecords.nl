@@ -8,3 +8,4 @@ color: lime
 disableCollapse: true
 target: _blank
 hideVersion: true
+theme: dark
