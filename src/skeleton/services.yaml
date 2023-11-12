@@ -37,18 +37,18 @@
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
     - Curate the Epsilon Spotify Playlist:
-          href: https://open.spotify.com/playlist/3V3NcVTRCHomITtmWLb86I?si=bce0b3a658e547bc&pt=a1f62f35e8ac8c516062f53507381745
-          description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
+        href: https://open.spotify.com/playlist/3V3NcVTRCHomITtmWLb86I?si=bce0b3a658e547bc&pt=a1f62f35e8ac8c516062f53507381745
+        description: Collaborate with fellow Epsilon team members to craft and continuously update our signature Spotify playlist that highlights our curated selection of artists and trending tracks.
 - Internal Tools:
     - Artist Relationship Management (CRM):
-          href: https://epsilonrecords.pipedrive.com
-          description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, client contact info, and project pipelines.
+        href: https://epsilonrecords.pipedrive.com
+        description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, client contact info, and project pipelines.
     - A&R Production Review Board:
-          href: https://epsilonrecords.nl/review
-          description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
+        href: https://epsilonrecords.nl/review
+        description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
     - Sign, Send & Manage Contracts:
-          href: https://app.docusign.com/auth
-          description: We leverage DocuSign to effortlessly send and manage artist contacts, ensuring secure and efficient digital signatures for seamless communication and record-keeping.
+        href: https://app.docusign.com/auth
+        description: We leverage DocuSign to effortlessly send and manage artist contacts, ensuring secure and efficient digital signatures for seamless communication and record-keeping.
     - Company Email Login:
         href: https://mail.epsilonrecords.com
         description: Access your official @epsilonrecords.nl company email account to stay updated on communications and A&R activities.
@@ -76,13 +76,13 @@
     - Annual Company Retreat:
         description: Our annual company offsite retreat focuses on team-building and relaxation, providing a chance to strengthen connections with colleagues in a refreshing and dynamic setting.
 - Perks:
-    - Epsilon.gifts Shop Discount (25% off):
+    - Epsilon Gift Shop Discount (25% off):
         href: https://epsilon.gifts
         description: Take advantage of your 25% staff discount at the Epsilon Gift Shop with code 'ANR2024', a benefit to appreciate our A&R team's dedication and hard work.
-    - TravelPerk.com Booking Deals:
+    - TravelPerk Booking Deals:
         href: https://travelperk.com
         description: TravelPerk offers our A&R representatives a streamlined and flexible platform for booking and managing artist travel, ensuring they can focus on discovering talent without the hassle of travel logistics.
-    - Outsite.co Accomodation Deals:
+    - Outsite Accomodation Deals:
         href: https://outsite.co
         description: Enjoy special discounted accommodations through our partnership with Outsite, ideal for remote work getaways that combine the tranquility of nature with the comforts of a well-appointed workspace.
 - Support & Resources:
