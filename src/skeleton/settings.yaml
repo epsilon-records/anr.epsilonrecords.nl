@@ -8,7 +8,7 @@ color: white
 disableCollapse: true
 target: _blank
 hideVersion: true
-theme: dark
+theme: light
 base: https://epsilon.careers
 layout:
   Want to join the Epsilon A&R team?:
