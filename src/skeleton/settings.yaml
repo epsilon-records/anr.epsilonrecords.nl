@@ -4,11 +4,11 @@
 
 title: Epsilon Records A&R Portal
 favicon: https://natehouk.com/files/favicon.ico
-color: lime
+color: white
 disableCollapse: true
 target: _blank
 hideVersion: true
-theme: light
+theme: dark
 base: https://epsilon.careers
 layout:
   Want to join the Epsilon A&R team?:
