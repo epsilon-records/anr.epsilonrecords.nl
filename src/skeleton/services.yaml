@@ -17,16 +17,10 @@
     - Artist Onboarding Guide:
         href: https://epsilonrecords.nl/onboarding
         description: The Artist Onboarding Guide is a comprehensive manual that provides newly signed artists with step-by-step instructions and essential information to seamlessly integrate into the label or agency's processes and community.
-    - Artist FAQ:
-        href: https://epsilonrecords.nl/faq
-        description: Our Artist FAQ provides a comprehensive resource for artists, offering clear answers to common questions and guidance for navigating their partnership with our label.
     - Submit Audio Files & Media Assets:
         href: https://epsilonrecords.nl/submit
         description: The A&R Mastered Audio Files and Media Assets Submission Portal is a secure online platform where A&R reps can upload high-quality tracks and related media content for their artists' upcoming releases. Maximum transfer size is 200GB.
 - A&R Team:
-    - A&R Meetings & Events Calendar:
-        href: https://epsilonrecords.nl/calendar
-        description: The A&R team calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
     - Weekly Music Review Zoom Call:
         description: Participate in our Weekly Music Review Zoom Call every Sunday from 19:00 to 20:00 CET to discuss new finds and industry trends.
     - A&R Production Review Board:
@@ -36,6 +30,9 @@
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
 - Internal Tools:
+    - A&R Meetings & Events Calendar:
+        href: https://epsilonrecords.nl/calendar
+        description: The A&R team calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
     - Artist Relationship Management (CRM):
         href: https://epsilonrecords.pipedrive.com
         description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, client contact info, and project pipelines.
@@ -46,6 +43,9 @@
     - Epsilon Records Music Report:
         href: https://epsilon.report
         description: Sign up to receive the monthly Epsilon Records Music Report for regular insights and updates on our business performance and initiatives.
+    - Artist FAQ:
+        href: https://epsilonrecords.nl/faq
+        description: Our Artist FAQ provides a comprehensive resource for artists, offering clear answers to common questions and guidance for navigating their partnership with our label.
     - Instagram Engagement:
         href: https://instagram.com/epsilonrecords
         description: Follow our Instagram @epsilonrecords to keep up with the latest news, behind-the-scenes content, and interact with our vibrant music community.
