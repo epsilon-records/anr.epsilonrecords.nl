@@ -21,8 +21,9 @@
         href: https://epsilonrecords.nl/submit
         description: The A&R Mastered Audio Files and Media Assets Submission Portal is a secure online platform where A&R reps can upload high-quality tracks and related media content for their artists' upcoming releases. Maximum transfer size is 200GB.
 - A&R Team:
-    - Weekly Music Review Zoom Call:
-        description: Participate in our Weekly Music Review Zoom Call every Sunday from 19:00 to 20:00 CET to discuss new finds and industry trends.
+    - A&R Meetings & Events Calendar:
+        href: https://epsilonrecords.nl/calendar
+        description: The A&R team calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
     - A&R Production Review Board:
         href: https://epsilonrecords.nl/review
         description: The A&R Production Review Board serves as a dedicated platform for the A&R team to evaluate, provide feedback on, and review the incoming tracks from artists and producers.
@@ -30,15 +31,15 @@
         href: https://epsilonrecords.nl/book
         description: Utilize our online booking system to conveniently schedule a meeting with the team, ensuring a collaborative approach to address your needs or project discussions.
 - Internal Tools:
-    - A&R Meetings & Events Calendar:
-        href: https://epsilonrecords.nl/calendar
-        description: The A&R team calendar is a centralized scheduling tool that keeps track of all industry events, release dates, and deadlines crucial for the planning and coordination of Artist and Repertoire activities.
-    - Artist Relationship Management (CRM):
+   - Artist Relationship Management (CRM):
         href: https://epsilonrecords.pipedrive.com
         description: Pipedrive streamlines our A&R processes, serving as a robust CRM system that optimizes the management of artist relations, client contact info, and project pipelines.
     - Company Email Login:
         href: https://mail.epsilonrecords.com
         description: Access your official @epsilonrecords.nl company email account to stay updated on communications and A&R activities.
+    - Industry Contact List:
+        href: https://epsilonrecords.nl/contacts
+        description: Our A&R industry contact list is a curated directory offering A&R professionals access to a network of valuable music industry connections, including publishers, producers, and other key stakeholders.
 - Label Community:
     - Epsilon Records Music Report:
         href: https://epsilon.report
@@ -77,6 +78,3 @@
         href: https://epsilonrecords.nl/faq
         description: Explore our comprehensive FAQ section to find quick answers to common questions and gain clearer insights into the A&R processes and best practices.
 - Resources:
-    - Industry Contact List:
-        href: https://epsilonrecords.nl/contacts
-        description: Our A&R industry contact list is a curated directory offering A&R professionals access to a network of valuable music industry connections, including publishers, producers, and other key stakeholders.
