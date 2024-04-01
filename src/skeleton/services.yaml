@@ -68,6 +68,9 @@
     - Browse the FAQ:
         href: https://epsilonrecords.nl/faq
         description: Explore our comprehensive FAQ section to find quick answers to common questions and gain clearer insights into the A&R processes and best practices.
+    - System Status:
+        href: https://epsilon.fail
+        description: The Epsilon Records Technologies Systems Status page offers real-time updates on the performance and availability of our services, ensuring transparency and reliability for our users.
 - Resources:
     - A&R Onboarding Guide:
         href: https://epsilonrecords.nl/anr-guide
