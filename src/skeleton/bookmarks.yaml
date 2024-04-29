@@ -30,24 +30,24 @@
     - Twitch:
         - abbr: TW
           href: https://twitch.tv/epsilonrecords
-    - Snapchat:
-        - abbr: SC
-          href: http://snapchat.com/add/epsilonrecords
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/r/EpsilonRecords/
+    # - Snapchat:
+    #     - abbr: SC
+    #       href: http://snapchat.com/add/epsilonrecords
+    # - Reddit:
+    #     - abbr: RE
+    #       href: https://reddit.com/r/EpsilonRecords/
     - Facebook:
         - abbr: FB
           href: https://facebook.com/epsilonrecords.nl
     - X:
         - abbr: X
           href: https://x.com/_epsilonrecords
-    - Mastodon:
-        - abbr: MA
-          href: https://epsilon.social/@e
-    - Pinterest:
-        - abbr: PI
-          href: https://pinterest.com/epsilonrecords/
+    # - Mastodon:
+    #     - abbr: MA
+    #       href: https://epsilon.social/@e
+    # - Pinterest:
+    #     - abbr: PI
+    #       href: https://pinterest.com/epsilonrecords/
 
 - Developer:
     - Github:
