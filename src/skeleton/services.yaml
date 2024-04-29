@@ -46,11 +46,11 @@
         description: Embrace the flexibility of remote work, allowing you to collaborate and create from wherever you find inspiration.
     - Flexible Working Hours:
         description: Take control of your workday with flexible working hours, designed to fit your personal schedule and maximize your productivity.
-    - Affordable Health Insurance:
-        href: https://safetywing.com
-        description: We have partnered with SafetyWing to provide our remote team with access to affordable health insurance, ensuring you're covered wherever you work.
-    - Annual Company Retreat:
-        description: Our annual company offsite retreat focuses on team-building and relaxation, providing a chance to strengthen connections with colleagues in a refreshing and dynamic setting.
+    # - Affordable Health Insurance:
+    #     href: https://safetywing.com
+    #     description: We have partnered with SafetyWing to provide our remote team with access to affordable health insurance, ensuring you're covered wherever you work.
+    # - Annual Company Retreat:
+    #     description: Our annual company offsite retreat focuses on team-building and relaxation, providing a chance to strengthen connections with colleagues in a refreshing and dynamic setting.
 - Perks:
     - Epsilon Gift Shop Discount (25% off):
         href: https://epsilon.gifts
@@ -62,9 +62,9 @@
         href: https://outsite.co
         description: Enjoy special discounted accommodations through our partnership with Outsite, ideal for remote work getaways that combine the tranquility of nature with the comforts of a well-appointed workspace.
 - Support:
-    - Open a Support Ticket:
-        href: https://support.epsilonrecords.nl
-        description: For assistance, Epsilon Support offers a helpdesk where you can open a ticket for any issues or inquiries, ensuring you receive the necessary support in a timely manner.
+    # - Open a Support Ticket:
+    #     href: https://support.epsilonrecords.nl
+    #     description: For assistance, Epsilon Support offers a helpdesk where you can open a ticket for any issues or inquiries, ensuring you receive the necessary support in a timely manner.
     - Browse the FAQ:
         href: https://epsilonrecords.nl/faq
         description: Explore our comprehensive FAQ section to find quick answers to common questions and gain clearer insights into the A&R processes and best practices.
