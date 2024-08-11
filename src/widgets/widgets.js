@@ -72,11 +72,9 @@ import prowlarr from "./prowlarr/widget";
 import proxmox from "./proxmox/widget";
 import pterodactyl from "./pterodactyl/widget";
 import pyload from "./pyload/widget";
-import qbittorrent from "./qbittorrent/widget";
 import qnap from "./qnap/widget";
 import radarr from "./radarr/widget";
 import readarr from "./readarr/widget";
-import rutorrent from "./rutorrent/widget";
 import sabnzbd from "./sabnzbd/widget";
 import scrutiny from "./scrutiny/widget";
 import sonarr from "./sonarr/widget";
@@ -113,13 +111,11 @@ const widgets = {
   cloudflared,
   coinmarketcap,
   customapi,
-  deluge,
   diskstation,
   downloadstation,
   emby,
   evcc,
   fileflows,
-  flood,
   freshrss,
   gamedig,
   ghostfolio,
@@ -174,11 +170,9 @@ const widgets = {
   proxmox,
   pterodactyl,
   pyload,
-  qbittorrent,
   qnap,
   radarr,
   readarr,
-  rutorrent,
   sabnzbd,
   scrutiny,
   sonarr,
@@ -188,7 +182,6 @@ const widgets = {
   tautulli,
   tdarr,
   traefik,
-  transmission,
   tubearchivist,
   truenas,
   unifi,
